@@ -149,5 +149,4 @@ I'm an active member of the **10xTechClub**, where I collaborate with fellow tec
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 Thank you for visiting my portfolio! Stay tuned for more exciting projects. 🚀✨
