@@ -65,7 +65,7 @@ I'm an active member of the **10xTechClub**, where I collaborate with fellow tec
 
 Feel free to explore my projects and connect with me on GitHub. I'm always eager for feedback, collaboration, and new ideas!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/your-github-a1mB0t-1357)
 
 ---
 
