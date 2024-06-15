@@ -1,6 +1,8 @@
 # 🚀 Ayaan Patel's GitHub Portfolio 🌟
 
-Welcome to my GitHub portfolio! I'm **Ayaan Patel**, a 14-year-old tech prodigy and proud member of the **10xTechClub**. I'm passionate about robotics, data science, hardware, and 3D printing. Dive into my world of innovation and creativity! 
+Welcome to my GitHub portfolio! I'm **Ayaan Patel**, a 14-year-old tech prodigy and proud member of the **10xTechClub**. My passions include robotics, data science, hardware, and 3D printing. Dive into my world of innovation and creativity!
+
+---
 
 ## 🎯 About Me
 
@@ -13,41 +15,51 @@ Welcome to my GitHub portfolio! I'm **Ayaan Patel**, a 14-year-old tech prodigy 
   - 🔌 Hardware
   - 🖨️ 3D Printing
 
+---
+
 ## 🚀 Projects
 
 ### 🚗 Bluetooth Control Car
 **Description**: Built a car controlled via Bluetooth, integrating hardware and software for seamless smartphone communication.
 
 **Highlights**:
-- Utilized Arduino and Bluetooth module for control.
-- Developed an intuitive mobile app interface.
-- Enhanced my skills in electronics and embedded systems.
+- 📱 Utilized Arduino and Bluetooth module for control.
+- 🛠️ Developed an intuitive mobile app interface.
+- 💡 Enhanced my skills in electronics and embedded systems.
 
-[![Bluetooth Control Car](https://img.shields.io/badge/Project-Repo-informational?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/your-github-username/Bluetooth-Control-Car)
+[![Bluetooth Control Car](https://img.shields.io/badge/View-Project-informational?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/your-github-username/Bluetooth-Control-Car)
+
+---
 
 ### 🏠 Home Automation Kit
 **Description**: Created a kit to automate home appliances, combining hardware components and custom software for efficiency.
 
 **Highlights**:
-- Implemented using microcontrollers and sensors.
-- Developed user-friendly control software.
-- Improved my knowledge in IoT and smart home technologies.
+- 🏡 Implemented using microcontrollers and sensors.
+- 🔧 Developed user-friendly control software.
+- 🌐 Improved my knowledge in IoT and smart home technologies.
 
-[![Home Automation Kit](https://img.shields.io/badge/Project-Repo-informational?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/your-github-username/Home-Automation-Kit)
+[![Home Automation Kit](https://img.shields.io/badge/View-Project-informational?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/your-github-username/Home-Automation-Kit)
+
+---
 
 ### 🦸 Marvel Heroes Categorizer
 **Description**: A Python project that categorizes Marvel heroes, showcasing my data science skills.
 
 **Highlights**:
-- Processed and organized large datasets.
-- Applied machine learning techniques for categorization.
-- Enhanced my proficiency in Python and data analysis.
+- 📊 Processed and organized large datasets.
+- 🧠 Applied machine learning techniques for categorization.
+- 🖥️ Enhanced my proficiency in Python and data analysis.
 
-[![Marvel Heroes Categorizer](https://img.shields.io/badge/Project-Repo-informational?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/your-github-username/Marvel-Heroes-Categorizer)
+[![Marvel Heroes Categorizer](https://img.shields.io/badge/View-Project-informational?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/your-github-username/Marvel-Heroes-Categorizer)
+
+---
 
 ## 🌟 Membership
 
 I'm an active member of the **10xTechClub**, where I collaborate with fellow tech enthusiasts to innovate and create groundbreaking projects. This club has been instrumental in enhancing my technical skills and knowledge.
+
+---
 
 ## 🌐 Connect with Me
 
